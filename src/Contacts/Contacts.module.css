@@ -1,0 +1,24 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  width: 280px;
+  margin-bottom: 5px;
+}
+.list {
+  padding: 0px;
+  max-width: 300px;
+  padding: 10px;
+  border: 2px solid rgb(104, 5, 134);
+  background-color: rgba(104, 5, 134, 0.427);
+  border-radius: 3px;
+}
+
+.button {
+  font-size: 15px;
+  font-weight: 500;
+  padding: 5px 10px;
+  background-color: rgb(104, 5, 134);
+  border:1px solid #fff;
+  border-radius: 2px;
+  color: #fff;
+}
